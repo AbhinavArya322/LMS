@@ -448,10 +448,10 @@ This project is licensed under the MIT License - see the [](LICENSE) file for de
 
 ## 👨‍💻 Author
 
-**[Your Name]**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+**[Abhinav Arya]**
+- GitHub: (https://github.com/AbhinavArya322)
+- LinkedIn: (https://linkedin.com/in/abhinav-arya804433215)
+- Email: Abhinavaryakn208019@gamil.com
 
 ---
 
